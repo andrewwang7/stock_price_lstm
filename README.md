@@ -1,9 +1,7 @@
 This model reference https://www.kaggle.com/benjibb/lstm-stock-prediction-20170507
 
-=====================================================================================
-
-預估台積電(2330)隔日收盤價
-程式碼參考https://www.kaggle.com/benjibb/lstm-stock-prediction-20170507
+==================================================================
+預估台積電(2330)隔日收盤價\程式碼參考https://www.kaggle.com/benjibb/lstm-stock-prediction-20170507
 用過去22天的日開盤, 高價, 低價, 收盤價以及成交量做隔日收盤的預估
 使用的是LSTM模型
 
